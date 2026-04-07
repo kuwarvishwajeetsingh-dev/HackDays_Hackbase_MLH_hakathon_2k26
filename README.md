@@ -26,7 +26,6 @@ Open the URL it prints (usually `http://localhost:5173/`).
 ## Notes
 - No real maps are loaded. The map panel shows `YOUR_API_KEY` and fake markers.
 - Speech-to-text uses `SpeechRecognition` when available (browser-dependent).
-- Here’s a **clean, professional, hackathon-winning README** you can directly paste into your GitHub repo for **CodeBlue AI**:
 
 ---
 
