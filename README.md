@@ -21,8 +21,6 @@ npm install
 npm run dev
 ```
 
-Open the URL it prints (usually `http://localhost:5173/`).
-
 ## Notes
 - No real maps are loaded. The map panel shows `YOUR_API_KEY` and fake markers.
 - Speech-to-text uses `SpeechRecognition` when available (browser-dependent).
